@@ -27,7 +27,6 @@
 - [**cem-replication**](https://github.com/elsisiem/cem-replication) · Replicating and extending Coarsened Exact Matching (Iacus, King and Porro, 2012) in R.
 - [**complaint-machine**](https://github.com/elsisiem/complaint-machine) · Drafts a complaint letter and tells you where to file it. Nothing is sent without approval.
 - [**reversi**](https://github.com/elsisiem/reversi) · Reversi against an alpha-beta minimax AI with iterative deepening.
-- [**islamic-knowledge-map**](https://github.com/elsisiem/islamic-knowledge-map) · How an AI answering questions on Islam should route a query and rank its sources.
 - [**getyes**](https://github.com/elsisiem/GetYes) · A persuasive-writing agent on the Sentient framework, with Mohamed Abdelhamid.
 
 ### Stack
