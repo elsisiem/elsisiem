@@ -1,36 +1,46 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Hatem Elsisi. tools for ai agents and the people who run them." width="100%">
-</picture>
+<img src="assets/header.svg" alt="Hatem Elsisi. Buenos Aires, Minerva University. Tools for AI agents." width="100%">
 
 <p>
-<a href="https://github.com/elsisiem/telltale"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/telltale-dark.svg"><img src="assets/telltale-light.svg" alt="telltale" width="49%"></picture></a>
-<a href="https://github.com/elsisiem/backstage"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/backstage-dark.svg"><img src="assets/backstage-light.svg" alt="backstage" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/telltale"><img src="assets/card-telltale.svg" alt="telltale" width="49%"></a>
+<a href="https://github.com/elsisiem/backstage"><img src="assets/card-backstage.svg" alt="backstage" width="49%"></a>
+<br>
+<a href="https://telltale-app.fly.dev"><img src="assets/pill-telltale.svg" alt="visit telltale-app.fly.dev" width="49%"></a>
+<a href="https://backstage-live.fly.dev"><img src="assets/pill-backstage.svg" alt="visit backstage-live.fly.dev" width="49%"></a>
 </p>
+
 <p>
-<a href="https://github.com/elsisiem/badger"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badger-dark.svg"><img src="assets/badger-light.svg" alt="badger" width="49%"></picture></a>
-<a href="https://github.com/elsisiem/scent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/scent-dark.svg"><img src="assets/scent-light.svg" alt="scent" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/badger"><img src="assets/card-badger.svg" alt="badger" width="49%"></a>
+<a href="https://github.com/elsisiem/scent"><img src="assets/card-scent.svg" alt="scent" width="49%"></a>
+<br>
+<a href="https://badger-nags.fly.dev"><img src="assets/pill-badger.svg" alt="visit badger-nags.fly.dev" width="49%"></a>
+<a href="https://scent.elsisi.workers.dev"><img src="assets/pill-scent.svg" alt="visit scent.elsisi.workers.dev" width="49%"></a>
 </p>
+
 <p>
-<a href="https://github.com/elsisiem/squint"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/squint-dark.svg"><img src="assets/squint-light.svg" alt="squint" width="49%"></picture></a>
-<a href="https://github.com/elsisiem/bond"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bond-dark.svg"><img src="assets/bond-light.svg" alt="bond" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/squint"><img src="assets/card-squint.svg" alt="squint" width="49%"></a>
+<a href="https://github.com/elsisiem/bond"><img src="assets/card-bond.svg" alt="bond" width="49%"></a>
+<br>
+<a href="https://squint.elsisi.workers.dev"><img src="assets/pill-squint.svg" alt="visit squint.elsisi.workers.dev" width="49%"></a>
+<a href="https://bond.elsisi.workers.dev"><img src="assets/pill-bond.svg" alt="visit bond.elsisi.workers.dev" width="49%"></a>
 </p>
+
 <p>
-<a href="https://github.com/elsisiem/shed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/shed-dark.svg"><img src="assets/shed-light.svg" alt="shed" width="49%"></picture></a>
-<a href="https://github.com/elsisiem/malaeb-masr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/malaeb-masr-dark.png"><img src="assets/malaeb-masr-light.png" alt="malaeb-masr" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/shed"><img src="assets/card-shed.svg" alt="shed" width="49%"></a>
+<a href="https://github.com/elsisiem/malaeb-masr"><img src="assets/card-malaeb-masr.svg" alt="malaeb-masr" width="49%"></a>
+<br>
+<a href="https://shed-molt.fly.dev"><img src="assets/pill-shed.svg" alt="visit shed-molt.fly.dev" width="49%"></a>
+<a href="https://v0-sports-facility-app-design.vercel.app/welcome"><img src="assets/pill-malaeb-masr.svg" alt="visit the UI preview" width="49%"></a>
 </p>
 
-### Also
+<p>
+<a href="https://github.com/elsisiem/muthaker-bot"><img src="assets/row-muthaker-bot.svg" alt="muthaker-bot" width="100%"></a>
+<a href="https://github.com/elsisiem/mac-monitor"><img src="assets/row-mac-monitor.svg" alt="mac-monitor" width="100%"></a>
+<a href="https://github.com/elsisiem/cem-replication"><img src="assets/row-cem-replication.svg" alt="cem-replication" width="100%"></a>
+<a href="https://github.com/elsisiem/complaint-machine"><img src="assets/row-complaint-machine.svg" alt="complaint-machine" width="100%"></a>
+<a href="https://github.com/elsisiem/reversi"><img src="assets/row-reversi.svg" alt="reversi" width="100%"></a>
+<a href="https://github.com/elsisiem/GetYes"><img src="assets/row-getyes.svg" alt="getyes" width="100%"></a>
+</p>
 
-- [**muthaker-bot**](https://github.com/elsisiem/muthaker-bot) · Telegram athkar reminders in five languages, timed to local prayer times. Running since 2024.
-- [**mac-monitor**](https://github.com/elsisiem/mac-monitor) · A Windows laptop as the screen for a Mac with a broken display, through an HDMI capture card.
-- [**cem-replication**](https://github.com/elsisiem/cem-replication) · Replicating and extending Coarsened Exact Matching (Iacus, King and Porro, 2012) in R.
-- [**complaint-machine**](https://github.com/elsisiem/complaint-machine) · Drafts a complaint letter and tells you where to file it. Nothing is sent without approval.
-- [**reversi**](https://github.com/elsisiem/reversi) · Reversi against an alpha-beta minimax AI with iterative deepening.
-- [**getyes**](https://github.com/elsisiem/GetYes) · A persuasive-writing agent on the Sentient framework, with Mohamed Abdelhamid.
+<img src="assets/stack.svg" alt="Stack: TypeScript, Python, Next.js, Hono, FastAPI, Postgres, D1, MongoDB, FalkorDB, Cloudflare Workers, Fly.io, Vercel, Claude API, MCP" width="100%">
 
-### Stack
-
-TypeScript and Python. Next.js, Hono, FastAPI. Postgres, D1, MongoDB, FalkorDB. Cloudflare Workers, Fly.io, Vercel. Claude API and MCP.
-
-[LinkedIn](https://www.linkedin.com/in/elsisihatem/)
+<a href="https://www.linkedin.com/in/elsisihatem/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" width="49%"></a>
