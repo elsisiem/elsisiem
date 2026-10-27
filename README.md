@@ -1,22 +1,22 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img src="assets/header-light.png" alt="Hatem Elsisi. Tools for AI agents and the people who run them." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Hatem Elsisi. tools for ai agents and the people who run them." width="100%">
 </picture>
 
 <p>
-<a href="https://github.com/elsisiem/telltale"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/telltale-dark.png"><img src="assets/telltale-light.png" alt="telltale" width="49%"></picture></a>
-<a href="https://github.com/elsisiem/backstage"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/backstage-dark.png"><img src="assets/backstage-light.png" alt="backstage" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/telltale"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/telltale-dark.svg"><img src="assets/telltale-light.svg" alt="telltale" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/backstage"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/backstage-dark.svg"><img src="assets/backstage-light.svg" alt="backstage" width="49%"></picture></a>
 </p>
 <p>
-<a href="https://github.com/elsisiem/badger"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badger-dark.png"><img src="assets/badger-light.png" alt="badger" width="49%"></picture></a>
-<a href="https://github.com/elsisiem/scent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/scent-dark.png"><img src="assets/scent-light.png" alt="scent" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/badger"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badger-dark.svg"><img src="assets/badger-light.svg" alt="badger" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/scent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/scent-dark.svg"><img src="assets/scent-light.svg" alt="scent" width="49%"></picture></a>
 </p>
 <p>
-<a href="https://github.com/elsisiem/squint"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/squint-dark.png"><img src="assets/squint-light.png" alt="squint" width="49%"></picture></a>
-<a href="https://github.com/elsisiem/bond"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bond-dark.png"><img src="assets/bond-light.png" alt="bond" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/squint"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/squint-dark.svg"><img src="assets/squint-light.svg" alt="squint" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/bond"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bond-dark.svg"><img src="assets/bond-light.svg" alt="bond" width="49%"></picture></a>
 </p>
 <p>
-<a href="https://github.com/elsisiem/shed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/shed-dark.png"><img src="assets/shed-light.png" alt="shed" width="49%"></picture></a>
+<a href="https://github.com/elsisiem/shed"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/shed-dark.svg"><img src="assets/shed-light.svg" alt="shed" width="49%"></picture></a>
 <a href="https://github.com/elsisiem/malaeb-masr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/malaeb-masr-dark.png"><img src="assets/malaeb-masr-light.png" alt="malaeb-masr" width="49%"></picture></a>
 </p>
 
