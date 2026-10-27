@@ -17,7 +17,7 @@
 </p>
 
 <p>
-<a href="https://github.com/elsisiem/squint"><img src="assets/card-squint.svg" alt="squint" width="49%"></a>
+<a href="https://github.com/elsisiem/squint"><img src="assets/card-squint-v2.svg" alt="squint" width="49%"></a>
 <a href="https://github.com/elsisiem/bond"><img src="assets/card-bond.svg" alt="bond" width="49%"></a>
 <br>
 <a href="https://squint.elsisi.workers.dev"><img src="assets/pill-squint.svg" alt="visit squint.elsisi.workers.dev" width="49%"></a>
