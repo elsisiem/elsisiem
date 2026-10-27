@@ -1,4 +1,4 @@
-<img src="assets/header-lc.svg" alt="Hatem Elsisi. @elsisiem, sf. i build for ai agents." width="100%">
+<img src="assets/header-avatar.svg" alt="Hatem Elsisi. @elsisiem, SF. I build for AI agents." width="100%">
 
 <p>
 <a href="https://github.com/elsisiem/telltale"><img src="assets/card-telltale.svg" alt="telltale" width="49%"></a>
