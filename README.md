@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="Hatem Elsisi, @elsisiem, San Francisco. tools for ai agents and the people who run them." width="100%">
+<img src="assets/header-dots.svg" alt="Hatem Elsisi, @elsisiem, San Francisco. tools for ai agents and the people who run them." width="100%">
 
 <p>
 <a href="https://github.com/elsisiem/telltale"><img src="assets/card-telltale.svg" alt="telltale" width="49%"></a>
