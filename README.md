@@ -1,4 +1,4 @@
-<img src="assets/header-main.svg" alt="Hatem Elsisi. @elsisiem, SF. I build for AI agents." width="100%">
+<img src="assets/header-i18n.svg" alt="Hatem Elsisi (حاتم السيسي). @elsisiem, SF. I build for AI agents." width="100%">
 
 <p>
 <a href="https://github.com/elsisiem/telltale"><img src="assets/card-telltale.svg" alt="telltale" width="49%"></a>
@@ -33,14 +33,14 @@
 </p>
 
 <p>
-<a href="https://github.com/elsisiem/muthaker-bot"><img src="assets/row-muthaker-bot.svg" alt="muthaker-bot" width="100%"></a>
-<a href="https://github.com/elsisiem/mac-monitor"><img src="assets/row-mac-monitor.svg" alt="mac-monitor" width="100%"></a>
-<a href="https://github.com/elsisiem/cem-replication"><img src="assets/row-cem-replication.svg" alt="cem-replication" width="100%"></a>
-<a href="https://github.com/elsisiem/complaint-machine"><img src="assets/row-complaint-machine.svg" alt="complaint-machine" width="100%"></a>
-<a href="https://github.com/elsisiem/reversi"><img src="assets/row-reversi.svg" alt="reversi" width="100%"></a>
-<a href="https://github.com/elsisiem/GetYes"><img src="assets/row-getyes.svg" alt="getyes" width="100%"></a>
+<a href="https://github.com/elsisiem/muthaker-bot"><img src="assets/row-muthaker-bot.svg" alt="Hatem Elsisi (حاتم السيسي). @elsisiem, SF. I build for AI agents." width="100%"></a>
+<a href="https://github.com/elsisiem/mac-monitor"><img src="assets/row-mac-monitor.svg" alt="Hatem Elsisi (حاتم السيسي). @elsisiem, SF. I build for AI agents." width="100%"></a>
+<a href="https://github.com/elsisiem/cem-replication"><img src="assets/row-cem-replication.svg" alt="Hatem Elsisi (حاتم السيسي). @elsisiem, SF. I build for AI agents." width="100%"></a>
+<a href="https://github.com/elsisiem/complaint-machine"><img src="assets/row-complaint-machine.svg" alt="Hatem Elsisi (حاتم السيسي). @elsisiem, SF. I build for AI agents." width="100%"></a>
+<a href="https://github.com/elsisiem/reversi"><img src="assets/row-reversi.svg" alt="Hatem Elsisi (حاتم السيسي). @elsisiem, SF. I build for AI agents." width="100%"></a>
+<a href="https://github.com/elsisiem/GetYes"><img src="assets/row-getyes.svg" alt="Hatem Elsisi (حاتم السيسي). @elsisiem, SF. I build for AI agents." width="100%"></a>
 </p>
 
-<img src="assets/stack.svg" alt="Stack: TypeScript, Python, Next.js, Hono, FastAPI, Postgres, D1, MongoDB, FalkorDB, Cloudflare Workers, Fly.io, Vercel, Claude API, MCP" width="100%">
+<img src="assets/stack.svg" alt="Hatem Elsisi (حاتم السيسي). @elsisiem, SF. I build for AI agents." width="100%">
 
 <a href="https://www.linkedin.com/in/elsisihatem/"><img src="assets/pill-linkedin.svg" alt="LinkedIn" width="49%"></a>
