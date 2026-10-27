@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1800" height="360" viewBox="0 0 1800 360">
 <style>
-:root{--empty:#EDEDF0;--a1:#DADADF;--a2:#C9C9CF;--a3:#8E8E96;--a4:#4A4A52;--ink:#0A0A0A;--sub:#4A4A52;--label:#8E8E96;--cursor:#FF4F00}
-@media (prefers-color-scheme:dark){:root{--empty:#17171B;--a1:#202026;--a2:#2C2C33;--a3:#5A5A64;--a4:#9A9AA4;--ink:#F4F4F5;--sub:#9A9AA4;--label:#5A5A64;--cursor:#FF6A26}}
+:root{--empty:#EDEDF0;--a1:#DADADF;--a2:#C9C9CF;--a3:#8E8E96;--a4:#4A4A52;--ink:#0A0A0A;--sub:#2E2E35;--label:#55555E;--cursor:#FF4F00}
+@media (prefers-color-scheme:dark){:root{--empty:#17171B;--a1:#202026;--a2:#2C2C33;--a3:#5A5A64;--a4:#9A9AA4;--ink:#F4F4F5;--sub:#D4D4DA;--label:#A4A4AE;--cursor:#FF6A26}}
 .base{fill:var(--empty)}
 .a1{fill:var(--a1)}.a2{fill:var(--a2)}.a3{fill:var(--a3)}.a4{fill:var(--a4)}
 .act{animation:tw 6s ease-in-out infinite}
